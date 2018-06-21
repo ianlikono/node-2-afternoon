@@ -1,2 +1,2 @@
 select *
-from products
+from products;
